@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\bin\Debug\ITMO.CSharp.WPF.Lab4_2.exe.config
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\bin\Debug\ITMO.CSharp.WPF.Lab4_2.exe
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\bin\Debug\ITMO.CSharp.WPF.Lab4_2.pdb
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\MainWindow.g.cs
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\App.g.cs
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\ITMO.CSharp.WPF.Lab4_2_MarkupCompile.cache
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\ITMO.CSharp.WPF.Lab4_2_MarkupCompile.lref
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\MainWindow.baml
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\ITMO.CSharp.WPF.Lab4_2.g.resources
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\ITMO.CSharp.WPF.Lab4_2.Properties.Resources.resources
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\ITMO.CSharp.WPF.Lab4_2.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\ITMO.CSharp.WPF.Lab4_2.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\ITMO.CSharp.WPF.Lab4_2.exe
+C:\Users\anton\source\repos\Ant0nS\ITMO.WinCSharp.Labs\WPF.Labs\ITMO.CSharp.WPF.Lab4_2\obj\Debug\ITMO.CSharp.WPF.Lab4_2.pdb
