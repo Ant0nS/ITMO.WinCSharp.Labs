@@ -1,0 +1,26 @@
+﻿<Window x:Class="ITMO.CSharp.WPF.Lab3_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITMO.CSharp.WPF.Lab3_1"
+        mc:Ignorable="d"
+        Title="NCommand" Height="450" Width="800">
+    <Grid>
+        <Menu HorizontalAlignment="Left" Height="61" Margin="10,0,0,10" VerticalAlignment="Bottom" Width="774">
+            <MenuItem Header="Правка">
+                <MenuItem Header="Копировать" CommandTarget="{Binding ElementName=NCommand}" Command="Copy"/>
+                <MenuItem Header="Вырезать" CommandTarget="{Binding ElementName=NCommand}" Command="Cut"/>
+                <MenuItem Header="Вставить" CommandTarget="{Binding ElementName=NCommand}" Command="Paste"/>
+            </MenuItem>
+        </Menu>
+        <TextBox HorizontalAlignment="Left" Height="123" Margin="51,40,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="212"/>
+        <RichTextBox HorizontalAlignment="Left" Height="225" Margin="304,40,0,0" VerticalAlignment="Top" Width="430">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+</Window>
